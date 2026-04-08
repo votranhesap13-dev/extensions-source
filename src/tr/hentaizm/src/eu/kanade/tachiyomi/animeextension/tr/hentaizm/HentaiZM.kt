@@ -269,3 +269,4 @@ class HentaiZM : ParsedAnimeHttpSource(), ConfigurableAnimeSource {
         private val PREF_QUALITY_VALUES = PREF_QUALITY_ENTRIES
     }
 }
+  
